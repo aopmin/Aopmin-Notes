@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/web.png
 heroText: 白豆五Java笔记
-tagline: 你知道的越多，不知道的也就越多。
+tagline: 🚀每天一个突发小技巧.
 bannerBg: /img/bg.jpeg
 # actionText: 立刻进入 →
 # actionLink: /web/
