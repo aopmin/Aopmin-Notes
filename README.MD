@@ -7,6 +7,9 @@ npm install # or yarn install
 
 # develop
 npm run dev # or yarn dev
+```
+
+<br>
 
 ## 目录结构
 
