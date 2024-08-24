@@ -6,6 +6,7 @@ module.exports = [
     excludeClassName: 'theme-vdoing-content' // 要排除元素的class, 默认空''
   }],
 
+  'reading-progress',// 阅读进度条
   'vuepress-plugin-baidu-autopush', // 百度自动推送
 
   // 可以添加第三方搜索链接的搜索框（原官方搜索框的参数仍可用）
@@ -89,15 +90,15 @@ module.exports = [
   ],
   // 樱花插件
   [
-    "sakura", 
+    "sakura",
     {
-      num: 20,  // 默认数量
+      num: 5,  // 默认数量
       show: true, //  是否显示
       zIndex: 5,   // 层级
       img: {
         replace: false,  // false 默认图 true 换图 需要填写httpUrl地址
         httpUrl: '...'     // 绝对路径
-      }     
+      }
     }
   ],
   //彩带特效
@@ -131,5 +132,14 @@ module.exports = [
     ribbonAnimationShow: true  // 滑动彩带
   }
   ]
+
+  //网站动态标题
+  ['dynamic-title', {
+    // showIcon: '',
+    showText: '欢迎回来  O(∩_∩)O~~',
+    // hideIcon: '',
+    hideText: '等等，你别走啊 ::>_<::',
+    recoverTime: 2000,
+  }],
 
 ]
