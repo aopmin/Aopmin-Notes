@@ -80,7 +80,7 @@ module.exports = {
   footer: {
     // 页脚信息
     createYear: 2024, // 博客创建年份
-    copyrightInfo: "本博客仅仅作为自己日常学习记录笔记使用", // 博客版权信息，支持a标签
+    copyrightInfo: "笔记托管平台", // 博客版权信息，支持a标签
   },
   htmlModules, // 插入hmtl(广告)模块
 };

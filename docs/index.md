@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/web.png
 heroText: 白豆五Java笔记
-tagline: 🚀每天一个突发小技巧.
+tagline: 🚀勇敢人先享受世界.
 bannerBg: /img/bg.jpeg
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -29,7 +29,7 @@ bannerBg: /img/bg.jpeg
 
 
 <!-- 小熊猫 -->
-<!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
+<img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> 
 
 <!--
 ## 关于

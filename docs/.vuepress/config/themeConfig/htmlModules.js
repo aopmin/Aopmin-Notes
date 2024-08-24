@@ -19,16 +19,18 @@
  */
 
 module.exports = {
-  homeSidebarB: `<!-- 纵向自适应 -->
-    <ins class="adsbygoogle"
-        style="display:block;padding: 0.95rem;"
-        data-ad-client="ca-pub-7828333725993554"
-        data-ad-slot="7802654582"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>`,
+  // homeSidebarB: `<!-- 纵向自适应 -->
+  //   <ins class="adsbygoogle"
+  //       style="display:block;padding: 0.95rem;"
+  //       data-ad-client="ca-pub-7828333725993554"
+  //       data-ad-slot="7802654582"
+  //       data-ad-format="auto"
+  //       data-full-width-responsive="true"></ins>
+  //   <script>
+  //       (adsbygoogle = window.adsbygoogle || []).push({});
+  //   </script>`,
+  //----------------------------------
+
   // sidebarT:
   //   `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
   //   <ins class="adsbygoogle"
